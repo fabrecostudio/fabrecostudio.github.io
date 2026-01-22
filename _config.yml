@@ -1,0 +1,29 @@
+# Site settings
+title: Fabreco Studio
+description: Fabreco Studio & IT Solutions
+author: Fabreco Studio
+email: fabrecostudio@gmail.com
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# GitHub Pages
+url: "https://fabrecostudio.github.io"
+baseurl: ""
+
+# Social media
+github_username: fabrecostudio
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
