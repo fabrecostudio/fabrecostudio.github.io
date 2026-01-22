@@ -1,8 +1,6 @@
 ---
-layout: home
+layout: default
 title: Home
 ---
 
-# **_{ f }_**
-
-Fabreco Studio & IT Solutions
+{% include_relative README.md %}
